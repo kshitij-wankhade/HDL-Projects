@@ -1,0 +1,20 @@
+# VHDL Projects
+
+This folder contains VHDL projects developed while learning digital design concepts and practicing hardware description language (HDL) programming.
+
+## Topics Covered
+
+- Combinational Circuits
+- Sequential Circuits
+- Arithmetic Circuits
+- Data Path Components
+
+## Tools Used
+
+- Intel Quartus Prime
+- ModelSim
+
+## Projects
+
+- 4-Bit Adder-Subtractor
+- More projects will be added as I continue learning.
